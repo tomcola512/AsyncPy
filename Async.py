@@ -2,7 +2,7 @@
 # tom coladonato
 
 # with boilerplate from
-# http://stackoverflow.com/questions/9105990/constantly-looking-for-user-input-in-python
+# http://stackoverflow.com/a/9109699
 
 
 import threading
