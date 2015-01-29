@@ -1,7 +1,11 @@
 # AsyncPy
 Threaded python shell for asynchronous execution.
 
-Info:
+# Problems
+ - Needs urwid or curses equivalent to multiplex terminal so that output and input can be actually asynchronous.
+ - Needs support for multiline input
+
+# Info:
 - agents dict: should contain objects with a `run` method. These are evaluated every tick.
 - i: global increment counter
 
