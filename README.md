@@ -1,6 +1,11 @@
 # AsyncPy
 Threaded python shell for asynchronous execution.
 
+Info:
+agents dict: should contain objects with a `run` method. These are evaluated every tick.
+i: global increment counter
+
+
 Example run:
 
 ```
